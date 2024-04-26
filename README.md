@@ -39,4 +39,4 @@ O banco de dados contém uma tabela chamada `cursos_escoteiros`, com os seguinte
 
 ## Autor
 
-Este sistema foi desenvolvido por [Lucas Diniz Sousa](https://github.com/seuusuario).
+Este sistema foi desenvolvido por [Lucas Diniz Sousa](https://github.com/LucasDinizDev).
